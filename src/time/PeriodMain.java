@@ -21,6 +21,5 @@ public class PeriodMain {
         Period between = Period.between(startDate, endDate);
         System.out.println("between = " + between);
         System.out.println("기간: " + between.getMonths() + "개월 " + between.getDays() + "일");
-
     }
 }
