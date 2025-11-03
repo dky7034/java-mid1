@@ -1,4 +1,4 @@
-package nested.nested.ex1;
+package nested.nested.inner.ex1;
 
 public class NetworkMessage {
     private String content;
